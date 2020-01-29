@@ -18,5 +18,8 @@ public class Main {
         System.out.println("как дела?");
         String answer =input.nextLine();
         System.out.println("круто");
+
+
+
     }
 }
